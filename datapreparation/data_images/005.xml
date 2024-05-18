@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>005.jpg</filename>
+	<path>C:\Users\Aditya\Projects\TY projects\datapreparation\data_images\005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>658</ymin>
+			<xmax>4856</xmax>
+			<ymax>3716</ymax>
+		</bndbox>
+	</object>
+</annotation>
